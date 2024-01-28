@@ -79,7 +79,7 @@
 
 ---
 
-#### <h2 align="center">⚙️ Stats ⚙️</h2>
+#### <h2 align="center">⚙️ Статистика ⚙️</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -103,6 +103,25 @@
 
 <hr>
 
+#### <h2 align="center">👨‍💻 Репозитории 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+ <a align="right" href="https://github.com/MyWurger/4.3.-Console-asteroid-game-with-music.-OOP-style" title="4.3.-Console-asteroid-game-with-music.-OOP-style"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=myWurger&repo=4.3.-Console-asteroid-game-with-music.-OOP-style&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/MyWurger/5.5.-Prediction-of-soil-type-using-the-Linear-multidimensional-interpolation-method" title="5.5.-Prediction-of-soil-type-using-the-Linear-multidimensional-interpolation-method"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MyWurger&repo=5.5.-Prediction-of-soil-type-using-the-Linear-multidimensional-interpolation-method&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/MyWurger/5.4.-Prediction-of-soil-type-from-available-data-using-the-Decision-Tree-method" title="5.4.-Prediction-of-soil-type-from-available-data-using-the-Decision-Tree-method"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=myWurger&repo=5.4.-Prediction-of-soil-type-from-available-data-using-the-Decision-Tree-method&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MyWurger/3.7.-Modeling-a-Gaussian-distribution-using-the-Box-Muller-cosine-transform" title="3.7.-Modeling-a-Gaussian-distribution-using-the-Box-Muller-cosine-transform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MyWurger&repo=3.7.-Modeling-a-Gaussian-distribution-using-the-Box-Muller-cosine-transform&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/MyWurger/5.3.--Traffic-light-on-Cyclone-IV-E---EP4CE115F29C7-using-NIOS-II-architecture" title="5.3.--Traffic-light-on-Cyclone-IV-E---EP4CE115F29C7-using-NIOS-II-architecture"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MyWurger&repo=5.3.--Traffic-light-on-Cyclone-IV-E---EP4CE115F29C7-using-NIOS-II-architecture&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MyWurger/4.1.-OCP-PIO-timer" title="4.1.-OCP-PIO-timer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MyWurger&repo=4.1.-OCP-PIO-timer&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
+<h4 align="center">
+  <a href="https://github.com/MyWurger?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MyWurger)
