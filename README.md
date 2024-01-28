@@ -27,7 +27,7 @@
 
 ---
 
-Социальные сети 🌍:
+### 🌍 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/Wurgerrr" target="_blank">
@@ -42,6 +42,41 @@
   </div>
 
 ---
+
+### 💻 Технологии:
+
+<div>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" width="50px"> 
+<img src="https://www.svgrepo.com/show/374115/systemverilog.svg" width="50px"> 
+<img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/638a61921edcd6b61220a23a_XrbJ07KiqWOBrxBtkJGoAUdyjwynYp-eC0MPmL1RoQU.png" width="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="50px"> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo-768x432.png" width="70px"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/384px-DBeaver_logo.svg.png" width="40px"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" width="40px"> 
+  <img src="https://e7.pngegg.com/pngimages/594/306/png-clipart-qt-creator-computer-icons-others-text-logo.png" width="47px"> 
+  <img src="https://www.scaler.com/topics/stories/what-is-git-bash-and-how-do-you-use-it/assets/3.png" width="40px"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/768px-Windows_logo_-_2021.svg.png" width="40px"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</div>
+
 
 ### ⚙️ GitHub статистика:
 
